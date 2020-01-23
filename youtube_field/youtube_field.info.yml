@@ -1,0 +1,6 @@
+name: YouTube FieldType
+description: Field for youtube URL
+package: Custom Modules
+
+type: module
+core: 8.x
